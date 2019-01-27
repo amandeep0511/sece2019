@@ -19,7 +19,7 @@
 				</div>
 				<div class="col-md-4">
 					<div class="footer-widget">
-						<div class="widget-title"><h6>Get In Touch</h6></div>
+						<div class="widget-title"><h6>Contact us</h6></div>
 						<div class="widget-about-2">
 							<ul>
 								<li>
