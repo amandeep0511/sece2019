@@ -30,12 +30,12 @@
 					<li><a href="#">Academics</a>
 						<ul>
 							
-							<li><a href="features.html">Faculty</a></li>
-							<li><a href="features.html">Research</a></li>
-							<li><a href="features.html">Curriculum</a></li>
-							<li><a href="features.html">TimeTable</a></li>
-							<li><a href="features.html">Resources</a></li>
-							<li><a href="features.html">TAP</a></li>
+							<li><a href="http://nitjsr.ac.in/academics/departments/facultylist.php?deptid=ECE" target="_blank">Faculty</a></li>
+							<li><a href="http://nitjsr.ac.in/academics/departments/ece/research.php" target="_blank">Research</a></li>
+							<li><a href="http://nitjsr.ac.in/academics/departments/curriculum.php?deptid=ECE" target="_blank">Curriculum</a></li>
+							<li><a href="http://www.nitjsr.ac.in/academics/departments/timetable.php?deptid=ECE">TimeTable</a></li>
+							<li><a href="#">Resources</a></li>
+							<li><a href="#">TAP</a></li>
 						</ul>	
 					</li>
 					<li><a href="index.html">Event</a>
