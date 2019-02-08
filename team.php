@@ -52,18 +52,96 @@
 			</div><!-- End row -->
 		</div><!-- End container -->
 	</div><!-- End breadcrumbs -->
-	
+
 	<div class="sections">
 		<div class="container">
 			<div class="sections-title">
 				<div class="sections-title-h3"><h3>Meet Our Awesome Team</h3></div>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis. Pellentesque cursus arcu id magna euismod in elementum purus molestie.</p>
+				<p>"Individual commitment to a group effort--that is what makes a team work, a company work, a society work, a civilization work."</p>
 			</div><!-- End sections-title -->
+
+			
+	<div class="row">
+		<div class="col-md-2">
+		</div>
+		<div class="col-md-8">
+			<div class="col-md-4 member-item">
+					<div class="member">
+						<div class="member-head">
+							<div class="member-img"><img alt="" src="images1/images/cur_team/b2.jpg"></div>
+							<div class="member-hover">
+								<div class="social-ul">
+									<ul>
+										<li class="social-facebook"><a href="#"><i class="fa fa-facebook"></i></a></li>
+										<li class="social-twitter"><a href="#"><i class="fa fa-twitter"></i></a></li>
+										<li class="social-google"><a href="#"><i class="fa fa-google-plus"></i></a></li>
+										<li class="social-linkedin"><a href="#"><i class="fa fa-linkedin"></i></a></li>
+									</ul>
+								</div>
+							</div><!-- End member-hover -->
+						</div><!-- End member-head -->
+						<div class="member-content">
+							<h5>Balram Viswakarma</h5>
+							<span>President</span>
+						</div><!-- End member-content -->
+					</div><!-- End member-item -->
+				</div>
+				<div class="col-md-4 member-item">
+					<div class="member">
+						<div class="member-head">
+							<div class="member-img"><img alt="" src="images1/images/cur_team/mishra.jpg"></div>
+							<div class="member-hover">
+								<div class="social-ul">
+									<ul>
+										<li class="social-facebook"><a href="#"><i class="fa fa-facebook"></i></a></li>
+										<li class="social-twitter"><a href="#"><i class="fa fa-twitter"></i></a></li>
+										<li class="social-google"><a href="#"><i class="fa fa-google-plus"></i></a></li>
+										<li class="social-linkedin"><a href="#"><i class="fa fa-linkedin"></i></a></li>
+									</ul>
+								</div>
+							</div><!-- End member-hover -->
+						</div><!-- End member-head -->
+						<div class="member-content">
+							<h5>Rohit Mishra</h5>
+							<span>General Secretary</span>
+						</div><!-- End member-content -->
+					</div><!-- End member-item -->
+				</div>
+				<div class="col-md-4 member-item">
+					<div class="member">
+						<div class="member-head">
+							<div class="member-img"><img alt="" src="images1/images/cur_team/sukriti.jpg"></div>
+							<div class="member-hover">
+								<div class="social-ul">
+									<ul>
+										<li class="social-facebook"><a href="#"><i class="fa fa-facebook"></i></a></li>
+										<li class="social-twitter"><a href="#"><i class="fa fa-twitter"></i></a></li>
+										<li class="social-google"><a href="#"><i class="fa fa-google-plus"></i></a></li>
+										<li class="social-linkedin"><a href="#"><i class="fa fa-linkedin"></i></a></li>
+									</ul>
+								</div>
+							</div><!-- End member-hover -->
+						</div><!-- End member-head -->
+						<div class="member-content">
+							<h5>Sukriti</h5>
+							<span>Vice President</span>
+						</div><!-- End member-content -->
+					</div><!-- End member-item -->
+				</div>
+		</div>
+		<div class="col-md-2">
+		</div>
+	</div>
+
+
+
+
 			<div class="row">
-				<div class="col-md-3 member-item">
+							
+				<div class="col-md-2 member-item">
 					<div class="member">
 						<div class="member-head">
-							<div class="member-img"><img alt="" src="images/member-1.png"></div>
+							<div class="member-img"><img alt="" src="images1/images/cur_team/atul.jpg"></div>
 							<div class="member-hover">
 								<div class="social-ul">
 									<ul>
@@ -76,16 +154,15 @@
 							</div><!-- End member-hover -->
 						</div><!-- End member-head -->
 						<div class="member-content">
-							<h5>Member Name</h5>
-							<span>Co - Founder</span>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit Integer lorem quashtege adipiscingipsum dolor sit.</p>
+							<h5>Atul Sagar</h5>
+							<span>PR Head</span>
 						</div><!-- End member-content -->
 					</div><!-- End member-item -->
 				</div>
-				<div class="col-md-3 member-item">
+				<div class="col-md-2 member-item">
 					<div class="member">
 						<div class="member-head">
-							<div class="member-img"><img alt="" src="images/member-2.png"></div>
+							<div class="member-img"><img alt="" src="images1/images/cur_team/rolee.jpg"></div>
 							<div class="member-hover">
 								<div class="social-ul">
 									<ul>
@@ -98,16 +175,15 @@
 							</div><!-- End member-hover -->
 						</div><!-- End member-head -->
 						<div class="member-content">
-							<h5>Member Name</h5>
-							<span>Co - Founder</span>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit Integer lorem quashtege adipiscingipsum dolor sit.</p>
+							<h5>Rolee Agarwal</h5>
+							<span>PR Head</span>
 						</div><!-- End member-content -->
 					</div><!-- End member-item -->
 				</div>
-				<div class="col-md-3 member-item">
+				<div class="col-md-2 member-item">
 					<div class="member">
 						<div class="member-head">
-							<div class="member-img"><img alt="" src="images/member-3.png"></div>
+							<div class="member-img"><img alt="" src="images1/images/cur_team/aj.jpg"></div>
 							<div class="member-hover">
 								<div class="social-ul">
 									<ul>
@@ -120,16 +196,15 @@
 							</div><!-- End member-hover -->
 						</div><!-- End member-head -->
 						<div class="member-content">
-							<h5>Member Name</h5>
-							<span>Co - Founder</span>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit Integer lorem quashtege adipiscingipsum dolor sit.</p>
+							<h5>Abhishek Jha</h5>
+							<span>Treasurer</span>
 						</div><!-- End member-content -->
 					</div><!-- End member-item -->
 				</div>
-				<div class="col-md-3 member-item">
+				<div class="col-md-2 member-item">
 					<div class="member">
 						<div class="member-head">
-							<div class="member-img"><img alt="" src="images/member-4.png"></div>
+							<div class="member-img"><img alt="" src="images1/images/cur_team/satyam.jpg"></div>
 							<div class="member-hover">
 								<div class="social-ul">
 									<ul>
@@ -142,16 +217,15 @@
 							</div><!-- End member-hover -->
 						</div><!-- End member-head -->
 						<div class="member-content">
-							<h5>Member Name</h5>
-							<span>Co - Founder</span>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit Integer lorem quashtege adipiscingipsum dolor sit.</p>
+							<h5>Satyam Raj</h5>
+							<span>Web Head</span>
 						</div><!-- End member-content -->
 					</div><!-- End member-item -->
 				</div>
-				<div class="col-md-3 member-item">
+				<div class="col-md-2 member-item">
 					<div class="member">
 						<div class="member-head">
-							<div class="member-img"><img alt="" src="images/member-1.png"></div>
+							<div class="member-img"><img alt="" src="images1/images/cur_team/sainikhil.jpg"></div>
 							<div class="member-hover">
 								<div class="social-ul">
 									<ul>
@@ -164,16 +238,15 @@
 							</div><!-- End member-hover -->
 						</div><!-- End member-head -->
 						<div class="member-content">
-							<h5>Member Name</h5>
-							<span>Co - Founder</span>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit Integer lorem quashtege adipiscingipsum dolor sit.</p>
+							<h5>Sai Nikhil</h5>
+							<span>EM Head</span>
 						</div><!-- End member-content -->
 					</div><!-- End member-item -->
 				</div>
-				<div class="col-md-3 member-item">
+				<div class="col-md-2 member-item">
 					<div class="member">
 						<div class="member-head">
-							<div class="member-img"><img alt="" src="images/member-2.png"></div>
+							<div class="member-img"><img alt="" src="images1/images/cur_team/tabitha.jpg"></div>
 							<div class="member-hover">
 								<div class="social-ul">
 									<ul>
@@ -186,234 +259,19 @@
 							</div><!-- End member-hover -->
 						</div><!-- End member-head -->
 						<div class="member-content">
-							<h5>Member Name</h5>
-							<span>Co - Founder</span>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit Integer lorem quashtege adipiscingipsum dolor sit.</p>
+							<h5>Tabitha Eda</h5>
+							<span>Technical Secretary</span>
 						</div><!-- End member-content -->
 					</div><!-- End member-item -->
 				</div>
-				<div class="col-md-3 member-item">
-					<div class="member">
-						<div class="member-head">
-							<div class="member-img"><img alt="" src="images/member-3.png"></div>
-							<div class="member-hover">
-								<div class="social-ul">
-									<ul>
-										<li class="social-facebook"><a href="#"><i class="fa fa-facebook"></i></a></li>
-										<li class="social-twitter"><a href="#"><i class="fa fa-twitter"></i></a></li>
-										<li class="social-google"><a href="#"><i class="fa fa-google-plus"></i></a></li>
-										<li class="social-linkedin"><a href="#"><i class="fa fa-linkedin"></i></a></li>
-									</ul>
-								</div>
-							</div><!-- End member-hover -->
-						</div><!-- End member-head -->
-						<div class="member-content">
-							<h5>Member Name</h5>
-							<span>Co - Founder</span>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit Integer lorem quashtege adipiscingipsum dolor sit.</p>
-						</div><!-- End member-content -->
-					</div><!-- End member-item -->
-				</div>
-				<div class="col-md-3 member-item">
-					<div class="member">
-						<div class="member-head">
-							<div class="member-img"><img alt="" src="images/member-4.png"></div>
-							<div class="member-hover">
-								<div class="social-ul">
-									<ul>
-										<li class="social-facebook"><a href="#"><i class="fa fa-facebook"></i></a></li>
-										<li class="social-twitter"><a href="#"><i class="fa fa-twitter"></i></a></li>
-										<li class="social-google"><a href="#"><i class="fa fa-google-plus"></i></a></li>
-										<li class="social-linkedin"><a href="#"><i class="fa fa-linkedin"></i></a></li>
-									</ul>
-								</div>
-							</div><!-- End member-hover -->
-						</div><!-- End member-head -->
-						<div class="member-content">
-							<h5>Member Name</h5>
-							<span>Co - Founder</span>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit Integer lorem quashtege adipiscingipsum dolor sit.</p>
-						</div><!-- End member-content -->
-					</div><!-- End member-item -->
-				</div>
-				<div class="col-md-3 member-item">
-					<div class="member">
-						<div class="member-head">
-							<div class="member-img"><img alt="" src="images/member-1.png"></div>
-							<div class="member-hover">
-								<div class="social-ul">
-									<ul>
-										<li class="social-facebook"><a href="#"><i class="fa fa-facebook"></i></a></li>
-										<li class="social-twitter"><a href="#"><i class="fa fa-twitter"></i></a></li>
-										<li class="social-google"><a href="#"><i class="fa fa-google-plus"></i></a></li>
-										<li class="social-linkedin"><a href="#"><i class="fa fa-linkedin"></i></a></li>
-									</ul>
-								</div>
-							</div><!-- End member-hover -->
-						</div><!-- End member-head -->
-						<div class="member-content">
-							<h5>Member Name</h5>
-							<span>Co - Founder</span>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit Integer lorem quashtege adipiscingipsum dolor sit.</p>
-						</div><!-- End member-content -->
-					</div><!-- End member-item -->
-				</div>
-				<div class="col-md-3 member-item">
-					<div class="member">
-						<div class="member-head">
-							<div class="member-img"><img alt="" src="images/member-2.png"></div>
-							<div class="member-hover">
-								<div class="social-ul">
-									<ul>
-										<li class="social-facebook"><a href="#"><i class="fa fa-facebook"></i></a></li>
-										<li class="social-twitter"><a href="#"><i class="fa fa-twitter"></i></a></li>
-										<li class="social-google"><a href="#"><i class="fa fa-google-plus"></i></a></li>
-										<li class="social-linkedin"><a href="#"><i class="fa fa-linkedin"></i></a></li>
-									</ul>
-								</div>
-							</div><!-- End member-hover -->
-						</div><!-- End member-head -->
-						<div class="member-content">
-							<h5>Member Name</h5>
-							<span>Co - Founder</span>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit Integer lorem quashtege adipiscingipsum dolor sit.</p>
-						</div><!-- End member-content -->
-					</div><!-- End member-item -->
-				</div>
-				<div class="col-md-3 member-item">
-					<div class="member">
-						<div class="member-head">
-							<div class="member-img"><img alt="" src="images/member-3.png"></div>
-							<div class="member-hover">
-								<div class="social-ul">
-									<ul>
-										<li class="social-facebook"><a href="#"><i class="fa fa-facebook"></i></a></li>
-										<li class="social-twitter"><a href="#"><i class="fa fa-twitter"></i></a></li>
-										<li class="social-google"><a href="#"><i class="fa fa-google-plus"></i></a></li>
-										<li class="social-linkedin"><a href="#"><i class="fa fa-linkedin"></i></a></li>
-									</ul>
-								</div>
-							</div><!-- End member-hover -->
-						</div><!-- End member-head -->
-						<div class="member-content">
-							<h5>Member Name</h5>
-							<span>Co - Founder</span>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit Integer lorem quashtege adipiscingipsum dolor sit.</p>
-						</div><!-- End member-content -->
-					</div><!-- End member-item -->
-				</div>
-				<div class="col-md-3 member-item">
-					<div class="member">
-						<div class="member-head">
-							<div class="member-img"><img alt="" src="images/member-4.png"></div>
-							<div class="member-hover">
-								<div class="social-ul">
-									<ul>
-										<li class="social-facebook"><a href="#"><i class="fa fa-facebook"></i></a></li>
-										<li class="social-twitter"><a href="#"><i class="fa fa-twitter"></i></a></li>
-										<li class="social-google"><a href="#"><i class="fa fa-google-plus"></i></a></li>
-										<li class="social-linkedin"><a href="#"><i class="fa fa-linkedin"></i></a></li>
-									</ul>
-								</div>
-							</div><!-- End member-hover -->
-						</div><!-- End member-head -->
-						<div class="member-content">
-							<h5>Member Name</h5>
-							<span>Co - Founder</span>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit Integer lorem quashtege adipiscingipsum dolor sit.</p>
-						</div><!-- End member-content -->
-					</div><!-- End member-item -->
-				</div>
-				<div class="col-md-3 member-item">
-					<div class="member">
-						<div class="member-head">
-							<div class="member-img"><img alt="" src="images/member-1.png"></div>
-							<div class="member-hover">
-								<div class="social-ul">
-									<ul>
-										<li class="social-facebook"><a href="#"><i class="fa fa-facebook"></i></a></li>
-										<li class="social-twitter"><a href="#"><i class="fa fa-twitter"></i></a></li>
-										<li class="social-google"><a href="#"><i class="fa fa-google-plus"></i></a></li>
-										<li class="social-linkedin"><a href="#"><i class="fa fa-linkedin"></i></a></li>
-									</ul>
-								</div>
-							</div><!-- End member-hover -->
-						</div><!-- End member-head -->
-						<div class="member-content">
-							<h5>Member Name</h5>
-							<span>Co - Founder</span>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit Integer lorem quashtege adipiscingipsum dolor sit.</p>
-						</div><!-- End member-content -->
-					</div><!-- End member-item -->
-				</div>
-				<div class="col-md-3 member-item">
-					<div class="member">
-						<div class="member-head">
-							<div class="member-img"><img alt="" src="images/member-2.png"></div>
-							<div class="member-hover">
-								<div class="social-ul">
-									<ul>
-										<li class="social-facebook"><a href="#"><i class="fa fa-facebook"></i></a></li>
-										<li class="social-twitter"><a href="#"><i class="fa fa-twitter"></i></a></li>
-										<li class="social-google"><a href="#"><i class="fa fa-google-plus"></i></a></li>
-										<li class="social-linkedin"><a href="#"><i class="fa fa-linkedin"></i></a></li>
-									</ul>
-								</div>
-							</div><!-- End member-hover -->
-						</div><!-- End member-head -->
-						<div class="member-content">
-							<h5>Member Name</h5>
-							<span>Co - Founder</span>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit Integer lorem quashtege adipiscingipsum dolor sit.</p>
-						</div><!-- End member-content -->
-					</div><!-- End member-item -->
-				</div>
-				<div class="col-md-3 member-item">
-					<div class="member">
-						<div class="member-head">
-							<div class="member-img"><img alt="" src="images/member-3.png"></div>
-							<div class="member-hover">
-								<div class="social-ul">
-									<ul>
-										<li class="social-facebook"><a href="#"><i class="fa fa-facebook"></i></a></li>
-										<li class="social-twitter"><a href="#"><i class="fa fa-twitter"></i></a></li>
-										<li class="social-google"><a href="#"><i class="fa fa-google-plus"></i></a></li>
-										<li class="social-linkedin"><a href="#"><i class="fa fa-linkedin"></i></a></li>
-									</ul>
-								</div>
-							</div><!-- End member-hover -->
-						</div><!-- End member-head -->
-						<div class="member-content">
-							<h5>Member Name</h5>
-							<span>Co - Founder</span>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit Integer lorem quashtege adipiscingipsum dolor sit.</p>
-						</div><!-- End member-content -->
-					</div><!-- End member-item -->
-				</div>
-				<div class="col-md-3 member-item">
-					<div class="member">
-						<div class="member-head">
-							<div class="member-img"><img alt="" src="images/member-4.png"></div>
-							<div class="member-hover">
-								<div class="social-ul">
-									<ul>
-										<li class="social-facebook"><a href="#"><i class="fa fa-facebook"></i></a></li>
-										<li class="social-twitter"><a href="#"><i class="fa fa-twitter"></i></a></li>
-										<li class="social-google"><a href="#"><i class="fa fa-google-plus"></i></a></li>
-										<li class="social-linkedin"><a href="#"><i class="fa fa-linkedin"></i></a></li>
-									</ul>
-								</div>
-							</div><!-- End member-hover -->
-						</div><!-- End member-head -->
-						<div class="member-content">
-							<h5>Member Name</h5>
-							<span>Co - Founder</span>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit Integer lorem quashtege adipiscingipsum dolor sit.</p>
-						</div><!-- End member-content -->
-					</div><!-- End member-item -->
-				</div>
+
+			
+				
 			</div><!-- End row -->
 		</div><!-- End container -->
+
+		
+
 	</div><!-- End sections -->
 	
 	<?php

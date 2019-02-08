@@ -41,8 +41,8 @@
 					<li><a href="index.html">Event</a>
 					<li ><a href="index.html">Gallery</a>
 					<li ><a href="index.html">Alumnus</a>
-					<li><a href="features.html">Team</a></li>	
-					
+					<li><a href="team.php">Team</a></li>	
+					<li><a href="contact.php">Contact Us</a></li>	
 					
 				</ul>
 			</nav><!-- End navigation -->
