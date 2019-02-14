@@ -38,9 +38,9 @@
 							<li><a href="#">TAP</a></li>
 						</ul>	
 					</li>
-					<li><a href="index.html">Event</a>
-					<li ><a href="index.html">Gallery</a>
-					<li ><a href="index.html">Alumnus</a>
+					<li><a href="event.php">Event</a>
+					<li ><a href="gallery.php">Gallery</a>
+					<li ><a href="#">Alumnus</a>
 					<li><a href="team.php">Team</a></li>	
 					<li><a href="contact.php">Contact Us</a></li>	
 					
