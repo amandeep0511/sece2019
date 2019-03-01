@@ -24,7 +24,7 @@
 	<link rel="stylesheet" href="css/responsive.css">
 	
 	<!-- Favicons -->
-	<link rel="shortcut icon" href="images/favicon.png">
+	<link rel="shortcut icon" href="images1/images/sece.png">
   
 </head>
 <body>
@@ -61,24 +61,24 @@
 						<div class="col-md-9">
 							<div class="section-title section-title-2"><h6>Contact Form :</h6></div>
 							<div class="comment-form">
-								<form method="post" class="form-js" action="contact_us.php">
+								<form method="post" class="form-js" action="action.php">
 									<div class="row">
 										<div class="col-md-6">
 											<div class="form-input">
 												<i class="fa fa-user"></i>
-												<input name="name" id="name" type="text" placeholder="Your Name">
+												<input name="t1" id="name" type="text" placeholder="Your Name">
 											</div>
 										</div>
 										<div class="col-md-6">
 											<div class="form-input">
 												<i class="fa fa-envelope"></i>
-												<input name="mail" id="mail" type="email" placeholder="Email">
+												<input name="t2" id="mail" type="email" placeholder="Email">
 											</div>
 										</div>
 										<div class="col-md-12">
 											<div class="form-input">
 												<i class="fa fa-comment"></i>
-												<textarea name="message" id="message" placeholder="Message"></textarea>
+												<textarea name="t3" id="message" placeholder="Message"></textarea>
 											</div>
 										</div>
 										<div class="col-md-12">

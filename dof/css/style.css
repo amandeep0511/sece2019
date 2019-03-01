@@ -1,0 +1,54 @@
+.scene {
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+  overflow: hidden;
+}
+.back.stage {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  display: flex;
+  flex-flow: row no-wrap;
+  align-items: center;
+  width: 45%;
+  height: 60%;
+  transition: all 0.5s;
+}
+.back.stage.live {
+  width: 40%;
+}
+.character {
+  flex: 1 1 auto;
+  margin: 1px;
+  transition: all 0.6s, -webkit-filter 0.7s, -webkit-transform 0.4s;
+  transition: filter 0.7s, transform 0.4s, all 0.6s;
+  transition: filter 0.7s, transform 0.4s, all 0.6s, -webkit-filter 0.7s, -webkit-transform 0.4s;
+  cursor: pointer;
+}
+.character > img {
+  max-width: 100%;
+  max-height: 100%;
+  display: block;
+}
+.character.performing {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: 0;
+  z-index: 10000;
+  -webkit-transform: translate(-50%, -50%) rotate3d(1, 1, 0, 360deg);
+          transform: translate(-50%, -50%) rotate3d(1, 1, 0, 360deg);
+  box-shadow: 0 0 0 4px white, 0 0 20px 6px rgba(0, 0, 0, 0.2);
+}
+.character.performing > img {
+  max-width: 80vw;
+  max-height: 80vh;
+}
+.character.idle {
+  -webkit-filter: blur(4px);
+          filter: blur(4px);
+  cursor: auto;
+}

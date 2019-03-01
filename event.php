@@ -24,7 +24,7 @@
 	<link rel="stylesheet" href="css/responsive.css">
 	
 	<!-- Favicons -->
-	<link rel="shortcut icon" href="images/favicon.png">
+	<link rel="shortcut icon" href="images1/images/sece.png">
   
 </head>
 <body>

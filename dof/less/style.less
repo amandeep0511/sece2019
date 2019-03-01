@@ -1,0 +1,53 @@
+.scene {
+  width:100vw;
+  height:100vh;
+  position:relative;
+  overflow:hidden;
+}
+
+.back.stage {
+  position:absolute;
+  top:50%; 
+  left:50%;
+  transform:translate(-50%,-50%);
+  display:flex;
+  flex-flow:row no-wrap;
+  align-items:center;
+  width:45%;
+  height:60%;
+  transition:all 0.5s;
+  &.live {
+    width:40%;
+  }
+}
+
+.character {
+  flex:1 1 auto;
+  margin:1px;
+  transition:filter 0.7s, transform 0.4s, all 0.6s;
+  cursor:pointer;
+  & > img {
+    max-width:100%;
+    max-height:100%;
+    display:block;
+  }
+  // performing character
+  &.performing {
+    position:absolute; top:50%; left:50%;
+    & > img {
+      max-width:80vw;
+      max-height:80vh;
+    }
+    margin:0;   
+    z-index:10000;
+    transform:translate(-50%,-50%)rotate3d(1,1,0,360deg);
+    box-shadow:
+      0 0 0 4px white,
+      0 0 20px 6px rgba(0,0,0,0.2);
+  }
+  // non active characters
+  &.idle {
+    filter:blur(4px);
+    cursor:auto;
+  }
+}

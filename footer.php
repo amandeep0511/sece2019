@@ -9,12 +9,17 @@
 							<div class="social-ul">
 								<ul>
 									<li class="social-facebook"><a href="#"><i class="fa fa-facebook"></i></a></li>
-									<li class="social-twitter"><a href="#"><i class="fa fa-twitter"></i></a></li>
-									<li class="social-google"><a href="#"><i class="fa fa-google-plus"></i></a></li>
+									<li class="social-twitter"><a href="#"><i class="fa fa-instagram"></i></a></li>
+									<!-- <li class="social-google"><a href="#"><i class="fa fa-google-plus"></i></a></li> -->
 									
 								</ul>
 							</div>
 						</div>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="footer-widget">
+						<img src="images1/images/secew.png" style="width: 50% ; margin-left: 60px; padding-left: 10px;">
 					</div>
 				</div>
 				<div class="col-md-4">
@@ -38,29 +43,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-md-4">
-					<div class="footer-widget">
-						<div class="widget-title"><h6>Latest Posts</h6></div>
-						<div class="widget-posts">
-							<ul>
-								<li>
-									<div class="widget-post-img"><img alt="" src="images/post-1.png"></div>
-									<div class="widget-post-content">
-										<h6><a href="#">Integer lorem quam, adiscing contum.</a></h6>
-										<span>Date : July 1, 2014</span>
-									</div>
-								</li>
-								<li>
-									<div class="widget-post-img"><img alt="" src="images/post-2.png"></div>
-									<div class="widget-post-content">
-										<h6><a href="#">Integer lorem quam, adiscing contum.</a></h6>
-										<span>Date : July 1, 2014</span>
-									</div>
-								</li>
-							</ul>
-						</div>
-					</div>
-				</div>
+				
 				
 			</div><!-- End row -->
 		</div><!-- End container -->
@@ -70,13 +53,13 @@
 			<div class="copyrights">Copyright 2019 SECE  | Developed By <a target="_blank" href="#">SECE</a></div>
 			<nav class="navigation-footer">
 				<ul>
-					<li><a href="index.html">Home</a></li>
-					<li><a href="features.html">Events</a></li>
-					<li><a href="services.html">Gallery</a></li>
-					<li><a href="portfolio-description.html">Alumnus</a></li>
-					<li><a href="blog.html">Team</a></li>
+					<li><a href="index.php">Home</a></li>
+					<li><a href="events.php">Events</a></li>
+					<!-- <li><a href="services.html">Gallery</a></li> -->
+					<li><a href="#">Alumnus</a></li>
+					<li><a href="team.php">Team</a></li>
 					
-					<li><a href="contact.html">Contact</a></li>
+					<li><a href="contact.php">Contact</a></li>
 				</ul>
 			</nav>
 		</div><!-- End container -->

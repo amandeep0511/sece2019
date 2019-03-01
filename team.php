@@ -24,7 +24,7 @@
 	<link rel="stylesheet" href="css/responsive.css">
 	
 	<!-- Favicons -->
-	<link rel="shortcut icon" href="images/favicon.png">
+	<link rel="shortcut icon" href="images1/images/sece.png">
   
 </head>
 <body>
@@ -47,7 +47,7 @@
 					<span>Meet Our Awesome Team</span>
 				</div>
 				<div class="col-md-6">
-					<div class="crumbs">You are here: <a href="index.html">Home</a><span class="crumbs-span">&raquo;</span><span>Team</span></div>
+					<div class="crumbs">You are here: <a href="index.php">Home</a><span class="crumbs-span">&raquo;</span><span>Team</span></div>
 				</div>
 			</div><!-- End row -->
 		</div><!-- End container -->
@@ -60,6 +60,78 @@
 				<p>"Individual commitment to a group effort--that is what makes a team work, a company work, a society work, a civilization work."</p>
 			</div><!-- End sections-title -->
 
+
+			<div class="row">
+		<div class="col-md-2">
+		</div>
+		<div class="col-md-8">
+			<div class="col-md-4 member-item">
+					<div class="member">
+						<div class="member-head">
+							<div class="member-img"><img alt="" src="images1/images/amitp.jpg"></div>
+							<div class="member-hover">
+								<div class="social-ul">
+									<ul>
+										<li class="social-facebook"><a href="#"><i class="fa fa-facebook"></i></a></li>
+										<li class="social-instagram"><a href="#"><i class="fa fa-instagram"></i></a></li>
+
+										<li class="social-linkedin"><a href="#"><i class="fa fa-linkedin"></i></a></li>
+									</ul>
+								</div>
+							</div><!-- End member-hover -->
+						</div><!-- End member-head -->
+						<div class="member-content">
+							<h5>Mr. Amit Prakash</h5>
+							<span>Faculty Advisor</span>
+						</div><!-- End member-content -->
+					</div><!-- End member-item -->
+				</div>
+				<div class="col-md-4 member-item">
+					<div class="member">
+						<div class="member-head">
+							<div class="member-img"><img alt="" src="images1/images/kkshukla.jpg"></div>
+							<div class="member-hover">
+								<div class="social-ul">
+									<ul>
+										<li class="social-facebook"><a href="#"><i class="fa fa-facebook"></i></a></li>
+										<li class="social-instagram"><a href="#"><i class="fa fa-instagram"></i></a></li>
+
+										<li class="social-linkedin"><a href="#"><i class="fa fa-linkedin"></i></a></li>
+									</ul>
+								</div>
+							</div><!-- End member-hover -->
+						</div><!-- End member-head -->
+						<div class="member-content">
+							<h5>Dr. K.K. Shukla</h5>
+							<span>Director</span>
+						</div><!-- End member-content -->
+					</div><!-- End member-item -->
+				</div>
+				<div class="col-md-4 member-item">
+					<div class="member">
+						<div class="member-head">
+							<div class="member-img"><img alt="" src="images1/images/rashmis.jpg"></div>
+							<div class="member-hover">
+								<div class="social-ul">
+									<ul>
+										<li class="social-facebook"><a href="#"><i class="fa fa-facebook"></i></a></li>
+										<li class="social-instagram"><a href="#"><i class="fa fa-instagram"></i></a></li>
+
+										<li class="social-linkedin"><a href="#"><i class="fa fa-linkedin"></i></a></li>
+									</ul>
+								</div>
+							</div><!-- End member-hover -->
+						</div><!-- End member-head -->
+						<div class="member-content">
+							<h5>Dr. Rashmi Sinha</h5>
+							<span>Chairman</span>
+						</div><!-- End member-content -->
+					</div><!-- End member-item -->
+				</div>
+		</div>
+		<div class="col-md-2">
+		</div>
+	</div>
 			
 	<div class="row">
 		<div class="col-md-2">
@@ -73,8 +145,8 @@
 								<div class="social-ul">
 									<ul>
 										<li class="social-facebook"><a href="#"><i class="fa fa-facebook"></i></a></li>
-										<li class="social-twitter"><a href="#"><i class="fa fa-twitter"></i></a></li>
-										<li class="social-google"><a href="#"><i class="fa fa-google-plus"></i></a></li>
+										<li class="social-instagram"><a href="#"><i class="fa fa-instagram"></i></a></li>
+
 										<li class="social-linkedin"><a href="#"><i class="fa fa-linkedin"></i></a></li>
 									</ul>
 								</div>
@@ -94,8 +166,8 @@
 								<div class="social-ul">
 									<ul>
 										<li class="social-facebook"><a href="#"><i class="fa fa-facebook"></i></a></li>
-										<li class="social-twitter"><a href="#"><i class="fa fa-twitter"></i></a></li>
-										<li class="social-google"><a href="#"><i class="fa fa-google-plus"></i></a></li>
+										<li class="social-instagram"><a href="#"><i class="fa fa-instagram"></i></a></li>
+
 										<li class="social-linkedin"><a href="#"><i class="fa fa-linkedin"></i></a></li>
 									</ul>
 								</div>
@@ -115,8 +187,8 @@
 								<div class="social-ul">
 									<ul>
 										<li class="social-facebook"><a href="#"><i class="fa fa-facebook"></i></a></li>
-										<li class="social-twitter"><a href="#"><i class="fa fa-twitter"></i></a></li>
-										<li class="social-google"><a href="#"><i class="fa fa-google-plus"></i></a></li>
+										<li class="social-instagram"><a href="#"><i class="fa fa-instagram"></i></a></li>
+
 										<li class="social-linkedin"><a href="#"><i class="fa fa-linkedin"></i></a></li>
 									</ul>
 								</div>
@@ -146,8 +218,8 @@
 								<div class="social-ul">
 									<ul>
 										<li class="social-facebook"><a href="#"><i class="fa fa-facebook"></i></a></li>
-										<li class="social-twitter"><a href="#"><i class="fa fa-twitter"></i></a></li>
-										<li class="social-google"><a href="#"><i class="fa fa-google-plus"></i></a></li>
+										<li class="social-instagram"><a href="#"><i class="fa fa-instagram"></i></a></li>
+
 										<li class="social-linkedin"><a href="#"><i class="fa fa-linkedin"></i></a></li>
 									</ul>
 								</div>
@@ -167,8 +239,8 @@
 								<div class="social-ul">
 									<ul>
 										<li class="social-facebook"><a href="#"><i class="fa fa-facebook"></i></a></li>
-										<li class="social-twitter"><a href="#"><i class="fa fa-twitter"></i></a></li>
-										<li class="social-google"><a href="#"><i class="fa fa-google-plus"></i></a></li>
+										<li class="social-instagram"><a href="#"><i class="fa fa-instagram"></i></a></li>
+
 										<li class="social-linkedin"><a href="#"><i class="fa fa-linkedin"></i></a></li>
 									</ul>
 								</div>
@@ -188,8 +260,8 @@
 								<div class="social-ul">
 									<ul>
 										<li class="social-facebook"><a href="#"><i class="fa fa-facebook"></i></a></li>
-										<li class="social-twitter"><a href="#"><i class="fa fa-twitter"></i></a></li>
-										<li class="social-google"><a href="#"><i class="fa fa-google-plus"></i></a></li>
+										<li class="social-instagram"><a href="#"><i class="fa fa-instagram"></i></a></li>
+
 										<li class="social-linkedin"><a href="#"><i class="fa fa-linkedin"></i></a></li>
 									</ul>
 								</div>
@@ -209,8 +281,8 @@
 								<div class="social-ul">
 									<ul>
 										<li class="social-facebook"><a href="#"><i class="fa fa-facebook"></i></a></li>
-										<li class="social-twitter"><a href="#"><i class="fa fa-twitter"></i></a></li>
-										<li class="social-google"><a href="#"><i class="fa fa-google-plus"></i></a></li>
+										<li class="social-instagram"><a href="#"><i class="fa fa-instagram"></i></a></li>
+
 										<li class="social-linkedin"><a href="#"><i class="fa fa-linkedin"></i></a></li>
 									</ul>
 								</div>
@@ -230,8 +302,8 @@
 								<div class="social-ul">
 									<ul>
 										<li class="social-facebook"><a href="#"><i class="fa fa-facebook"></i></a></li>
-										<li class="social-twitter"><a href="#"><i class="fa fa-twitter"></i></a></li>
-										<li class="social-google"><a href="#"><i class="fa fa-google-plus"></i></a></li>
+										<li class="social-instagram"><a href="#"><i class="fa fa-instagram"></i></a></li>
+
 										<li class="social-linkedin"><a href="#"><i class="fa fa-linkedin"></i></a></li>
 									</ul>
 								</div>
@@ -251,8 +323,8 @@
 								<div class="social-ul">
 									<ul>
 										<li class="social-facebook"><a href="#"><i class="fa fa-facebook"></i></a></li>
-										<li class="social-twitter"><a href="#"><i class="fa fa-twitter"></i></a></li>
-										<li class="social-google"><a href="#"><i class="fa fa-google-plus"></i></a></li>
+										<li class="social-instagram"><a href="#"><i class="fa fa-instagram"></i></a></li>
+
 										<li class="social-linkedin"><a href="#"><i class="fa fa-linkedin"></i></a></li>
 									</ul>
 								</div>
@@ -267,6 +339,183 @@
 
 			
 				
+			</div><!-- End row -->
+				<div class="sections-title-h3" style="text-align: center;"><h3>Third Year Team</h3></div>
+
+
+			<div class="row">
+							
+				<div class="col-md-3 member-item">
+					<div class="member">
+						<div class="member-head">
+							<div class="member-img"><img alt="" src="images1/smita.jpg"></div>
+							<div class="member-hover">
+								<div class="social-ul">
+									<ul>
+										<li class="social-facebook"><a href="#"><i class="fa fa-facebook"></i></a></li>
+										<li class="social-instagram"><a href="#"><i class="fa fa-instagram"></i></a></li>
+
+										<li class="social-linkedin"><a href="#"><i class="fa fa-linkedin"></i></a></li>
+									</ul>
+								</div>
+							</div><!-- End member-hover -->
+						</div><!-- End member-head -->
+						<div class="member-content">
+							<h5>Smita Kumari</h5>
+							<span>Member</span>
+						</div><!-- End member-content -->
+					</div><!-- End member-item -->
+				</div>
+				<div class="col-md-3 member-item">
+					<div class="member">
+						<div class="member-head">
+							<div class="member-img"><img alt="" src="images1/sweta.jpg"></div>
+							<div class="member-hover">
+								<div class="social-ul">
+									<ul>
+										<li class="social-facebook"><a href="#"><i class="fa fa-facebook"></i></a></li>
+										<li class="social-instagram"><a href="#"><i class="fa fa-instagram"></i></a></li>
+
+										<li class="social-linkedin"><a href="#"><i class="fa fa-linkedin"></i></a></li>
+									</ul>
+								</div>
+							</div><!-- End member-hover -->
+						</div><!-- End member-head -->
+						<div class="member-content">
+							<h5>Sweta Kumari</h5>
+							<span>Member</span>
+						</div><!-- End member-content -->
+					</div><!-- End member-item -->
+				</div>
+				<div class="col-md-3 member-item">
+					<div class="member">
+						<div class="member-head">
+							<div class="member-img"><img alt="" src="images1/ankit.jpg"></div>
+							<div class="member-hover">
+								<div class="social-ul">
+									<ul>
+										<li class="social-facebook"><a href="#"><i class="fa fa-facebook"></i></a></li>
+										<li class="social-instagram"><a href="#"><i class="fa fa-instagram"></i></a></li>
+
+										<li class="social-linkedin"><a href="#"><i class="fa fa-linkedin"></i></a></li>
+									</ul>
+								</div>
+							</div><!-- End member-hover -->
+						</div><!-- End member-head -->
+						<div class="member-content">
+							<h5>Ankit Agarwal</h5>
+							<span>Member</span>
+						</div><!-- End member-content -->
+					</div><!-- End member-item -->
+				</div>
+
+				<div class="col-md-3 member-item">
+					<div class="member">
+						<div class="member-head">
+							<div class="member-img"><img alt="" src="images1/chaitu.jpg"></div>
+							<div class="member-hover">
+								<div class="social-ul">
+									<ul>
+										<li class="social-facebook"><a href="#"><i class="fa fa-facebook"></i></a></li>
+										<li class="social-instagram"><a href="#"><i class="fa fa-instagram"></i></a></li>
+
+										<li class="social-linkedin"><a href="#"><i class="fa fa-linkedin"></i></a></li>
+									</ul>
+								</div>
+							</div><!-- End member-hover -->
+						</div><!-- End member-head -->
+						<div class="member-content">
+							<h5>Chaitanya Poluri</h5>
+							<span>Member</span>
+						</div><!-- End member-content -->
+					</div><!-- End member-item -->
+				</div>
+				<div class="col-md-3 member-item">
+					<div class="member">
+						<div class="member-head">
+							<div class="member-img"><img alt="" src="images1/surya.jpg"></div>
+							<div class="member-hover">
+								<div class="social-ul">
+									<ul>
+										<li class="social-facebook"><a href="#"><i class="fa fa-facebook"></i></a></li>
+										<li class="social-instagram"><a href="#"><i class="fa fa-instagram"></i></a></li>
+
+										<li class="social-linkedin"><a href="#"><i class="fa fa-linkedin"></i></a></li>
+									</ul>
+								</div>
+							</div><!-- End member-hover -->
+						</div><!-- End member-head -->
+						<div class="member-content">
+							<h5>Surya Prakash</h5>
+							<span>Member</span>
+						</div><!-- End member-content -->
+					</div><!-- End member-item -->
+				</div>
+				<div class="col-md-3 member-item">
+					<div class="member">
+						<div class="member-head">
+							<div class="member-img"><img alt="" src="images1/ad.jpg"></div>
+							<div class="member-hover">	
+								<div class="social-ul">
+									<ul>
+										<li class="social-facebook"><a href="#"><i class="fa fa-facebook"></i></a></li>
+										<li class="social-instagram"><a href="#"><i class="fa fa-instagram"></i></a></li>
+
+										<li class="social-linkedin"><a href="#"><i class="fa fa-linkedin"></i></a></li>
+									</ul>
+								</div>
+							</div><!-- End member-hover -->
+						</div><!-- End member-head -->
+						<div class="member-content">
+							<h5>Aman Deep</h5>
+							<span>Member</span>
+						</div><!-- End member-content -->
+					</div><!-- End member-item -->
+				</div>	
+
+			
+				<div class="col-md-3 member-item">
+					<div class="member">
+						<div class="member-head">
+							<div class="member-img"><img alt="" src="images1/manasi.jpg"></div>
+							<div class="member-hover">
+								<div class="social-ul">
+									<ul>
+										<li class="social-facebook"><a href="#"><i class="fa fa-facebook"></i></a></li>
+										<li class="social-instagram"><a href="#"><i class="fa fa-instagram"></i></a></li>
+
+										<li class="social-linkedin"><a href="#"><i class="fa fa-linkedin"></i></a></li>
+									</ul>
+								</div>
+							</div><!-- End member-hover -->
+						</div><!-- End member-head -->
+						<div class="member-content">
+							<h5>Manasi Singh</h5>
+							<span>Member</span>
+						</div><!-- End member-content -->
+					</div><!-- End member-item -->
+				</div>	
+				<div class="col-md-3 member-item">
+					<div class="member">
+						<div class="member-head">
+							<div class="member-img"><img alt="" src="images1/manish.jpeg"></div>
+							<div class="member-hover">
+								<div class="social-ul">
+									<ul>
+										<li class="social-facebook"><a href="#"><i class="fa fa-facebook"></i></a></li>
+										<li class="social-instagram"><a href="#"><i class="fa fa-instagram"></i></a></li>
+
+										<li class="social-linkedin"><a href="#"><i class="fa fa-linkedin"></i></a></li>
+									</ul>
+								</div>
+							</div><!-- End member-hover -->
+						</div><!-- End member-head -->
+						<div class="member-content">
+							<h5>Manish Kumar</h5>
+							<span>Member</span>
+						</div><!-- End member-content -->
+					</div><!-- End member-item -->
+				</div>	
 			</div><!-- End row -->
 		</div><!-- End container -->
 

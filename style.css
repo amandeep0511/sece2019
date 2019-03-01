@@ -213,19 +213,26 @@ input,textarea {
 }
 .logo a {
 	float: left;
+	
 }
 .logo img {
-	max-height: 95px;;
+	max-height: 95px;
+	padding: 2px;
+	margin-bottom:5px;
 }
 .logo span {
 	padding-left: 10px;
 	font-size: 12px;
 	display: inline-block;
 	float: left;
+	
 }
 /* Navigation */
 .navigation {
-	float: right;
+	padding-left:290px;
+	text-align: center;
+	margin-left:40px;
+	
 }
 .navigation ul li ul {
 	z-index: 998;

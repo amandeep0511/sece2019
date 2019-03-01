@@ -19,6 +19,8 @@
  -->	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	<!-- Skins -->
 	<link rel="stylesheet" href="css/skins/skins.css">
+	      <link rel="stylesheet" href="gallery/css/style.css">
+
 	
 	<!-- Responsive Style -->
 	<link rel="stylesheet" href="css/responsive.css">
@@ -40,8 +42,55 @@
 	<div class="clearfix"></div>
 	
 
-	<img src="images/undercons.jpg" style="margin-left: 150px; ">
-	
+<!-- 	<img src="images/undercons.jpg" style="margin-left: 150px; ">
+ -->	
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>CSS Grid - Horizontal Gallery with scroll</title>
+  
+  
+  
+      <link rel="stylesheet" href="css/style.css">
+
+  
+</head>
+
+<body>
+
+  <!--
+   Grid gallery with horizontal scroll on wheel
+-->
+
+<div class="gallery_wrapper">
+						<div id="gallery_grid">
+							<img src="seceimg/1.jpg" class="span_1">
+							<img src="seceimg/2.jpg" alt="" class="span_2">
+							<img src="seceimg/3.jpg" alt="" class="span_3">
+							<img src="seceimg/4.jpg" alt="" class="span_4">
+							<img src="seceimg/5.jpg" alt="" class="span_5">
+							<img src="seceimg/6.jpg" alt="" class="span_6">
+							<img src="seceimg/7.jpg" alt="" class="span_1">
+							<img src="https://images.unsplash.com/photo-1550719888-ffef4f5b476e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60" alt="" class="span_2">
+							<img src="https://images.unsplash.com/photo-1550647512-8b8a24d4f646?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60" alt="" class="span_3">
+							<img src="https://images.unsplash.com/photo-1550726570-5d88e3969025?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60" alt="" class="span_4">
+							<img src="https://images.unsplash.com/photo-1550664255-94d114340500?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60" alt="" class="span_5">
+							<img src="https://images.unsplash.com/photo-1550593802-08de396435da?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60" alt=""  class="span_6">
+						</div>
+</div>
+  
+  
+
+    <script  src="js/index.js"></script>
+
+
+
+
+</body>
+
+</html>
 	
 	<?php
 		include ("footer.php");

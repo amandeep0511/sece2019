@@ -24,7 +24,7 @@
 	<link rel="stylesheet" href="css/responsive.css">
 	
 	<!-- Favicons -->
-	<link rel="shortcut icon" href="images/favicon.png">
+	<link rel="shortcut icon" href="images1/images/sece.png">
   
 </head>
 <body>
@@ -83,7 +83,7 @@
 						
 						
 						<!-- LAYER NR. 4 -->
-						<div class="slide-a tp-caption customin"
+					<!-- 	<div class="slide-a tp-caption customin"
 							data-x="center"
 							data-y="390"
 							data-hoffset="100"
@@ -93,7 +93,7 @@
 							data-easing="Power3.easeInOut"
 							data-endspeed="500"
 							style="z-index: 4"><a href="#" class="button-4">Know More</a>
-						</div>
+						</div> -->
 						
 						<!-- LAYER NR. 5 -->
 					
@@ -162,7 +162,7 @@
 							data-start="1800"
 							data-easing="Power3.easeInOut"
 							data-endspeed="500"
-							style="z-index: 4"><a href="http://themeforest.net/user/begha" class="button-6">STAY TUNED</a>
+							style="z-index: 4"><a href="#" class="button-6">STAY TUNED</a>
 						</div>
 					</li>
 				</ul>

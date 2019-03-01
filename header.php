@@ -8,9 +8,9 @@
 				<div class="col-md-6">
 					<div class="social-ul">
 						<ul>
-							<li class="social-facebook"><a href="#"><i class="fa fa-facebook"></i></a></li>
-							<li class="social-twitter"><a href="#"><i class="fa fa-twitter"></i></a></li>
-							<li class="social-google"><a href="#"><i class="fa fa-google-plus"></i></a></li>
+							<li class="social-facebook"><a href="https://www.facebook.com/secenitjsr/?epa=SEARCH_BOX"><i class="fa fa-facebook"></i></a></li>
+							<li class="social-twitter"><a href="#"><i class="fa fa-instagram"></i></a></li>
+							<!-- <li class="social-google"><a href="#"><i class="fa fa-google-plus"></i></a></li> -->
 							
 						</ul>
 					</div>
@@ -20,7 +20,7 @@
 	</header><!-- End header -->
 	<header id="header">
 		<div class="container clearfix">
-			<div class="logo"><a href="index.html"><img alt="" src="images1/images/sece.png"></a><span>Society of Electronics and Communication Engineering</span></div>
+			<div class="logo"><a href="index.php"><img alt="" src="images1/images/sece.png"></a><span></span></div>
 			
 			<nav class="navigation">
 				<ul>
@@ -39,12 +39,14 @@
 						</ul>	
 					</li>
 					<li><a href="event.php">Event</a>
-					<li ><a href="gallery.php">Gallery</a>
+					<!-- <li ><a href="gallery.php">Gallery</a> -->
 					<li ><a href="#">Alumnus</a>
 					<li><a href="team.php">Team</a></li>	
 					<li><a href="contact.php">Contact Us</a></li>	
 					
 				</ul>
+				<div class="logo" style="float: right;"><a href="http://www.nitjsr.ac.in"><img alt="" src="images1/images/nit.png"></a></div>
 			</nav><!-- End navigation -->
+
 		</div><!-- End container -->
 	</header><!-- End header -->
